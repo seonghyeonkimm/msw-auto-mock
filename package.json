@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
-    "@faker-js/faker": "^8.2.0",
+    "@faker-js/faker": "^8.3.1",
     "@types/lodash": "^4.14.182",
     "@types/node": "^17.0.45",
     "@types/prettier": "^2.6.3",
@@ -48,7 +48,7 @@
     "vitest": "^0.28.2"
   },
   "peerDependencies": {
-    "@faker-js/faker": "^8.2.0",
+    "@faker-js/faker": "^8.3.1",
     "msw": "^2.0.1"
   },
   "repository": {
