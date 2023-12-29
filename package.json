@@ -8,7 +8,7 @@
     ".": {
       "types": "./dist/cli.d.ts",
       "require": "./dist/cli.js",
-      "import": "./dist/cli.mjs"
+      "import": "./dist/generate.mjs"
     }
   },
   "bin": {
