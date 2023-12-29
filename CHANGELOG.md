@@ -1,5 +1,11 @@
 # msw-auto-mock-cli
 
+## 0.0.5
+
+### Patch Changes
+
+- f2cfc22: add generate file
+
 ## 0.0.4
 
 ### Patch Changes
