@@ -44,6 +44,10 @@ const next = () => {
   return i++;
 }
 
+export const resetResponseIndex = () => {
+  i = 0;
+}
+
 export const handlers = [
   ${transformToHandlerCode(operationCollection)}
 ];
