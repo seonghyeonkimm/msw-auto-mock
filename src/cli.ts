@@ -33,3 +33,5 @@ cli.help();
 cli.version(version);
 
 cli.parse();
+
+export { generate };
