@@ -1,5 +1,11 @@
 # msw-auto-mock-cli
 
+## 0.0.7
+
+### Patch Changes
+
+- 1dc805d: change main, module in package.json
+
 ## 0.0.6
 
 ### Patch Changes
