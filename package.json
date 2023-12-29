@@ -6,8 +6,8 @@
   "module": "./dist/cli.mjs",
   "exports": {
     ".": {
-      "types": "./dist/cli.d.ts",
-      "require": "./dist/cli.js",
+      "types": "./dist/generate.d.ts",
+      "require": "./dist/generate.js",
       "import": "./dist/generate.mjs"
     }
   },
