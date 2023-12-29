@@ -24,6 +24,10 @@ const next = () => {
   return i++;
 };
 
+export const resetResponseIndex = () => {
+  i = 0;
+};
+
 export const handlers = [
   http.get(\`\${baseURL}/test\`, () => {
     const resultArray = [[getGetTest200Response(), { status: 200 }]];
