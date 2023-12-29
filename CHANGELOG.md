@@ -1,5 +1,11 @@
 # msw-auto-mock-cli
 
+## 0.0.3
+
+### Patch Changes
+
+- 906ec83: update package
+
 ## 0.0.2
 
 ### Patch Changes
