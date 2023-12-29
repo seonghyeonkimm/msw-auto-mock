@@ -48,7 +48,7 @@ export function transformToGenerateResultFunctions(
             return '';
           }
 
-          const fakerResult = transformJSONSchemaToFakerCode(r.responses?.['application/json']);
+          const fakerResult = transformJSONSchemaToFakerCode(r.responses?.[options?.responseContentType ?? 'application/json']);
 
           if (options?.static) {
             vm.runInContext(`result = ${fakerResult};`, context);

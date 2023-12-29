@@ -8,4 +8,5 @@ export interface CliOptions {
   codes?: string;
   reactNative?: boolean;
   static?: boolean;
+  responseContentType?: string;
 }
