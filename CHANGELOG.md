@@ -1,5 +1,11 @@
 # msw-auto-mock-cli
 
+## 0.0.6
+
+### Patch Changes
+
+- ad66cbc: change export file
+
 ## 0.0.5
 
 ### Patch Changes
