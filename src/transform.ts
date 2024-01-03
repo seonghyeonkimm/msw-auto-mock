@@ -49,7 +49,7 @@ export function transformToGenerateResultFunctions(
           }
 
           let fakerResult = transformJSONSchemaToFakerCode(r.responses?.[options?.responseContentType ?? 'application/json']);
-          if (options?.responseContentType && !fakerResult) {
+          if (options?.responseContentType && fakerResult === 'null') {
             fakerResult = transformJSONSchemaToFakerCode(r.responses?.['application/json']);
           }
 
