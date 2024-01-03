@@ -1,5 +1,11 @@
 # msw-auto-mock-cli
 
+## 0.0.9
+
+### Patch Changes
+
+- 4c2c211: update
+
 ## 0.0.8
 
 ### Patch Changes
