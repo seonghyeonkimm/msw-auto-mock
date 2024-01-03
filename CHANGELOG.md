@@ -1,5 +1,11 @@
 # msw-auto-mock-cli
 
+## 0.0.8
+
+### Patch Changes
+
+- f97ad17: update transform
+
 ## 0.0.7
 
 ### Patch Changes
